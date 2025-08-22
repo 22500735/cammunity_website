@@ -77,7 +77,7 @@ const CTASection = () => {
                 href="mailto:info@cammunity.com"
                 className="text-white hover:text-primary-light transition-colors duration-200"
               >
-                info@cammunity.com
+                campuslink@gmail.com
               </a>
             </div>
 
@@ -91,7 +91,7 @@ const CTASection = () => {
                 href="tel:+81-3-1234-5678"
                 className="text-white hover:text-primary-light transition-colors duration-200"
               >
-                +81-3-1234-5678
+                +82 010-4172-0868
               </a>
             </div>
 

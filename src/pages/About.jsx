@@ -91,7 +91,7 @@ const About = () => {
               <span className="gradient-text">Cammunity</span> 소개
             </h1>
             <p className="text-xl text-gray-600 leading-relaxed">
-              일본과 한국을 연결하는 혁신적인 회사사
+              일본과 한국을 연결하는 혁신적인 회사
               <br />
               <span className="text-lg text-gray-500">
                 日本と韓国をつなぐ革新的な会社

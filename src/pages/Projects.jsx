@@ -18,48 +18,50 @@ const Projects = () => {
       japaneseDescription: '日本と韓国の大学生をつなぐ革新的なコミュニティプラットフォームです。文化的差異を理解し、それを基にユーザーが簡単にコミュニケーションできる環境を提供します。',
       category: 'main',
       status: 'active',
-      technologies: ['React', 'Node.js', 'MongoDB', 'AWS'],
-      team: ['김민수', '田中 花子', '박지영', '佐藤 健太'],
-      startDate: '2023년 3월',
+      technologies: ['React', 'Node.js', 'Electron', 'SQL'],
+      team: ['김정민', '최재훈', '최윤성', '松村 太郎'],
+      startDate: '2025년 8월',
       endDate: '진행중',
       image: '/api/placeholder/600/400',
       features: [
-        '다국어 지원 (한국어, 일본어, 영어)',
-        '실시간 번역 및 통역 서비스',
-        '문화별 맞춤형 콘텐츠 추천',
-        'AI 기반 언어 학습 도구',
-        '커뮤니티 관리 및 모더레이션'
+        '통합 학사 정보 알림 기능',
+        '교내 인증 중고 장터 기능',
+        '책임 있는 익명 커뮤니티 기능',
+        '스마트 캠퍼스 맵 기능',
+        '동아리·서클 지원 기능',
       ],
       japaneseFeatures: [
-        '多言語対応（韓国語、日本語、英語）',
-        'リアルタイム翻訳・通訳サービス',
-        '文化別カスタマイズコンテンツ推薦',
-        'AIベース言語学習ツール',
-        'コミュニティ管理・モデレーション'
+        '学業情報通知機能',
+        '認証済み中古市場機能',
+        '責任ある匿名コミュニティ機能',
+        'スマートキャンパスマップ機能',
+        'サークル・サークルサポート機能',
       ],
       challenges: [
-        '두 언어 간의 자연스러운 번역 구현',
-        '문화적 맥락을 고려한 콘텐츠 필터링',
-        '대규모 사용자 동시 접속 처리',
-        '개인정보 보호 및 보안 강화'
+        '실시간 학사 정보와 캠퍼스 공간 정보의 융합',
+        '책임 있는 익명성 기반의 건전한 커뮤니티 구축',
+        '일본 대학 문화와 사용자 심리를 반영한 현지화',
+        '캠퍼스 단위 네트워크 효과 조기 활성화',
+        '분산된 대학내 학사정보의 실시간 연동'
       ],
       japaneseChallenges: [
-        '二言語間の自然な翻訳実装',
-        '文化的文脈を考慮したコンテンツフィルタリング',
-        '大規模ユーザー同時接続処理',
-        '個人情報保護・セキュリティ強化'
+        '学業情報とキャンパス空間情報の融合',
+        '責任ある匿名性ベースの健全なコミュニティ構築',
+        '日本の大学文化とユーザー心理を反映したローカライゼーション',
+        'キャンパス単位のネットワーク効果の早期活性化',
+        '分散された大学內学業情報のリアルタイム連携'
       ],
       results: [
         '월간 활성 사용자 10,000명 달성',
-        '번역 정확도 95% 이상 달성',
+        '일본 주요 대학 15곳 이상 확장장',
         '사용자 만족도 4.8/5.0 달성'
       ],
       japaneseResults: [
         '月間アクティブユーザー10,000人達成',
-        '翻訳精度95%以上達成',
+        '日本の主要大学15校以上拡大',
         'ユーザー満足度4.8/5.0達成'
       ],
-      demoUrl: 'https://demo.cammunity.com',
+      demoUrl: 'https://22500735.github.io/demo2/',
       githubUrl: 'https://github.com/cammunity/platform',
       caseStudyUrl: '/cammunity'
     },
@@ -72,11 +74,11 @@ const Projects = () => {
       description: '일본과 한국의 기업들이 비즈니스 파트너를 찾고 협력할 수 있는 B2B 네트워킹 플랫폼입니다.',
       japaneseDescription: '日本と韓国の企業がビジネスパートナーを見つけ、協力できるB2Bネットワーキングプラットフォームです。',
       category: 'business',
-      status: 'completed',
+      status: 'planning',
       technologies: ['Vue.js', 'Python', 'PostgreSQL', 'Docker'],
-      team: ['이수진', '高橋 美咲', '佐藤 健太'],
-      startDate: '2022년 6월',
-      endDate: '2023년 12월',
+      team: ['김정민', '최재훈', '최윤성', '松村 太郎'],
+      startDate: '2025년 9월',
+      endDate: '계획중',
       image: '/api/placeholder/600/400',
       features: [
         '기업 프로필 및 매칭 시스템',
@@ -105,16 +107,14 @@ const Projects = () => {
         'リアルタイム通訳サービス実装'
       ],
       results: [
-        '500개 이상의 기업 파트너십 성사',
-        '총 거래액 100억원 달성',
-        '사용자 만족도 4.6/5.0 달성',
-        '일본-한국 무역 증대에 기여'
+        '프로젝트 계획 단계',
+        '초기 투자 유치 진행중',
+        '2026년 하반기 출시 예정'
       ],
       japaneseResults: [
-        '500以上の企業パートナーシップ成立',
-        '総取引額100億円達成',
-        'ユーザー満足度4.6/5.0達成',
-        '日本-韓国貿易増大に貢献'
+        'プロジェクト計画段階',
+        '初期投資誘致進行中',
+        '2026年下半期リリース予定'
       ],
       demoUrl: 'https://globalconnect.cammunity.com',
       githubUrl: 'https://github.com/cammunity/global-connect',
@@ -129,11 +129,11 @@ const Projects = () => {
       description: '일본과 한국의 학생들이 서로의 언어와 문화를 배울 수 있는 온라인 교육 플랫폼입니다.',
       japaneseDescription: '日本と韓国の学生がお互いの言語と文化を学べるオンライン教育プラットフォームです。',
       category: 'education',
-      status: 'active',
+      status: 'planning',
       technologies: ['React Native', 'Firebase', 'TensorFlow', 'Google Cloud'],
-      team: ['박지영', '田中 花子', '이수진'],
-      startDate: '2023년 9월',
-      endDate: '진행중',
+      team: ['김정민', '최재훈', '최윤성'],
+      startDate: '2025년 9월',
+      endDate: '계획중',
       image: '/api/placeholder/600/400',
       features: [
         'AI 기반 개인 맞춤형 학습 경로',
@@ -162,16 +162,14 @@ const Projects = () => {
         'モバイルアプリ性能最適化'
       ],
       results: [
-        '등록 학생 수 5,000명 달성',
-        '학습 완료율 78% 달성',
-        '언어 능력 향상도 평균 2.5레벨',
-        '문화 교류 프로그램 참여율 85%'
+        '프로젝트 계획 단계',
+        '초기 투자 유치 진행중',
+        '2026년 하반기 출시 예정'
       ],
       japaneseResults: [
-        '登録学生数5,000人達成',
-        '学習完了率78%達成',
-        '言語能力向上度平均2.5レベル',
-        '文化交流プログラム参加率85%'
+        'プロジェクト計画段階',
+        '初期投資誘致進行中',
+        '2026年下半期リリース予定'
       ],
       demoUrl: 'https://edubridge.cammunity.com',
       githubUrl: 'https://github.com/cammunity/edubridge',
@@ -188,8 +186,8 @@ const Projects = () => {
       category: 'technology',
       status: 'planning',
       technologies: ['Next.js', 'TypeScript', 'GraphQL', 'Kubernetes'],
-      team: ['田中 花子', '佐藤 健太', '高橋 美咲'],
-      startDate: '2024년 3월 (예정)',
+      team: ['김정민', '최재훈', '최윤성'],
+      startDate: '2025년 9월',
       endDate: '계획중',
       image: '/api/placeholder/600/400',
       features: [
@@ -220,15 +218,13 @@ const Projects = () => {
       ],
       results: [
         '프로젝트 계획 단계',
-        '파트너 기업 20개사 선정',
         '초기 투자 유치 진행중',
-        '2024년 하반기 출시 예정'
+        '2026년 하반기 출시 예정'
       ],
       japaneseResults: [
         'プロジェクト計画段階',
-        'パートナー企業20社選定',
         '初期投資誘致進行中',
-        '2024年下半期リリース予定'
+        '2026年下半期リリース予定'
       ],
       demoUrl: null,
       githubUrl: null,
