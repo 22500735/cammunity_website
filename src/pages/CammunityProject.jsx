@@ -356,7 +356,7 @@ const CammunityProject = () => {
                         <div>
                           <h4 className="font-semibold text-gray-800 mb-2">언어 장벽 제거</h4>
                           <p className="text-gray-600 text-sm">
-                            AI 번역 기술로 한국어와 일본어 간의 소통을 원활하게 합니다.
+                            학생과 학생, 대학과 대학의 소통을 원활하게 합니다.
                           </p>
                         </div>
                       </div>
@@ -367,7 +367,7 @@ const CammunityProject = () => {
                         <div>
                           <h4 className="font-semibold text-gray-800 mb-2">문화 교류 촉진</h4>
                           <p className="text-gray-600 text-sm">
-                            두 나라의 문화를 이해하고 교류할 수 있는 환경을 제공합니다.
+                            각 대학 내에서 문화 교류를 촉진하고 학생들의 소통을 원활하게 합니다.
                           </p>
                         </div>
                       </div>
