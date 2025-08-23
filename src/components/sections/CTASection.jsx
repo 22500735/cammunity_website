@@ -74,7 +74,7 @@ const CTASection = () => {
               <h3 className="text-lg font-semibold text-white mb-2">이메일</h3>
               <p className="text-white/80 text-sm mb-2">Email</p>
               <a
-                href="mailto:info@cammunity.com"
+                href="mailto:campuslink@gmail.com"
                 className="text-white hover:text-primary-light transition-colors duration-200"
               >
                 campuslink@gmail.com
@@ -88,7 +88,7 @@ const CTASection = () => {
               <h3 className="text-lg font-semibold text-white mb-2">전화</h3>
               <p className="text-white/80 text-sm mb-2">Phone</p>
               <a
-                href="tel:+81-3-1234-5678"
+                href="tel:+82 010-4172-0868"
                 className="text-white hover:text-primary-light transition-colors duration-200"
               >
                 +82 010-4172-0868
